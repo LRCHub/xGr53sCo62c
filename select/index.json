@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "WILDSIDE",
+  "base_artist": "Red Velvet",
+  "createdAt": "2025-12-24T11:31:56.343354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wildside",
+      "artist": "Loverboy",
+      "has_synced": false,
+      "path": "select/01_Wildside_Loverboy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Living on the Wildside",
+      "artist": "Axel Rudi Pell",
+      "has_synced": false,
+      "path": "select/02_Living_on_the_Wildside_Axel_Rudi_Pell.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wildside",
+      "artist": "Van Zant",
+      "has_synced": true,
+      "path": "select/03_Wildside_Van_Zant.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wildside",
+      "artist": "Marky Mark and the Funky Bunch",
+      "has_synced": false,
+      "path": "select/04_Wildside_Marky_Mark_and_the_Funky_Bunch.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WILDSIDE",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/05_WILDSIDE_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wildside (feat. A$AP Rocky)",
+      "artist": "T.I. feat. A$AP Rocky",
+      "has_synced": true,
+      "path": "select/06_Wildside_(feat._A$AP_Rocky)_T.I._feat._A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wildside",
+      "artist": "T.I.",
+      "has_synced": true,
+      "path": "select/07_Wildside_T.I..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wildside",
+      "artist": "Tyler Bryant & The Shakedown",
+      "has_synced": false,
+      "path": "select/08_Wildside_Tyler_Bryant_&_The_Shakedown.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wildside (feat. A$AP Rocky)",
+      "artist": "T.I.",
+      "has_synced": true,
+      "path": "select/09_Wildside_(feat._A$AP_Rocky)_T.I..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wildside",
+      "artist": "Claptone feat. Matt Simons",
+      "has_synced": true,
+      "path": "select/10_Wildside_Claptone_feat._Matt_Simons.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wildside (feat. Matt Simons)",
+      "artist": "Claptone",
+      "has_synced": true,
+      "path": "select/11_Wildside_(feat._Matt_Simons)_Claptone.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "WILDSIDE",
+      "artist": "Red Velvet (레드벨벳)",
+      "has_synced": true,
+      "path": "select/12_WILDSIDE_Red_Velvet_(레드벨벳).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wildside - From \"Adventures in Babysitting\"",
+      "artist": "Sabrina Carpenter feat. Sofia Carson",
+      "has_synced": true,
+      "path": "select/13_Wildside_-_From__Adventures_in_Babysitting_Sabrina_Carpenter_feat._Sofia_Carson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wildside",
+      "artist": "Sabrina Carpenter, Sofia Carson",
+      "has_synced": true,
+      "path": "select/14_Wildside_Sabrina_Carpenter,_Sofia_Carson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wildside",
+      "artist": "Marky Mark & The Funky Bunch",
+      "has_synced": false,
+      "path": "select/15_Wildside_Marky_Mark_&_The_Funky_Bunch.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wildside (From \"Adventures in Babysitting\")",
+      "artist": "Sofia Carson",
+      "has_synced": true,
+      "path": "select/16_Wildside_(From__Adventures_in_Babysitting_)_Sofia_Carson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Wildside",
+      "artist": "T.I. feat. A$AP Rocky",
+      "has_synced": true,
+      "path": "select/17_Wildside_T.I._feat._A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Wildside",
+      "artist": "T.I.",
+      "has_synced": true,
+      "path": "select/18_Wildside_T.I..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WILDSIDE",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_WILDSIDE_Red_Velvet.txt"
+    }
+  ]
+}
